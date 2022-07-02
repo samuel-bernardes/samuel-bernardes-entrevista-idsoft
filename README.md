@@ -1,4 +1,4 @@
-# Create React App example with TypeScript
+# Entrevista técnica Grupo ID SOFT
 
 ## How to use
 
